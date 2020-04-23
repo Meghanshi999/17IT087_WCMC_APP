@@ -12,3 +12,5 @@ After that when user login through fingerprint sensor succesfully,date-time and 
 **Image of when the attendance is done**
 ![WhatsApp Image 2020-04-23 at 6 53 55 PM](https://user-images.githubusercontent.com/50952299/80107833-3a21b700-8599-11ea-97e6-df5343380b26.jpeg)
 
+**Database Entry Image**
+![Capture](https://user-images.githubusercontent.com/50952299/80108558-0f842e00-859a-11ea-8256-44875a8cf3a9.PNG)
